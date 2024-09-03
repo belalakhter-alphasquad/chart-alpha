@@ -16,13 +16,13 @@ function App() {
     </head>
 
     <body>
-       <iframe id="dextools-widget"
-        title="DEXTools Trading Chart"
-        width="500"
-        height="400" src="https://www.dextools.io/widget-chart/en/ether/pe-light/0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d?theme=light&chartType=2&chartResolution=30&drawingToolbars=false"></iframe>
-    </body>
+    <iframe id="dextools-widget"
+    title="DEXTools Trading Chart"
+    width="500" height="400"
+    src="https://www.dextools.io/widget-chart/en/solana/pe-light/HRUsdnW2B49DQS64UoPJjcciRHSi3sBSBfnDmdEEzCRN?theme=light&chartType=2&chartResolution=30&drawingToolbars=false"></iframe>    </body>
     </html>
   `;
+  
 
   return (
     <div>
